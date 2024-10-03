@@ -1,0 +1,3 @@
+Luli Avila,  Juan Avila,  3,  Perro,  Chihuhua,  F,  2023-11-23,  11.00,  9.30,  123456789,  Negro,  2019-01-01
+Nieve Avila,  Frann Avila,  12,  Perro,  Dalmata,  F,  2023-11-20,  12.10,  14.30,  17892317,  Blanco,  2019-11-29
+Garfield,  Juan Perez,  10,  Gato,  Angora,  M,  2023-11-01,  12.30,  15.40,  1234567,  Amarillo,  2013-10-10
